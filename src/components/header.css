@@ -1,0 +1,14 @@
+.my-nav{
+    width: 100%;
+    color: #fff !important;
+    background: #0065c3 !important;
+    /* margin: 0;
+    padding: 0; */
+    font-family: Sofia Pro Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 780;
+    font-size: 15px;
+    /* position: fixed;
+    z-index: 2; */
+}
